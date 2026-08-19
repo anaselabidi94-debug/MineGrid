@@ -1,1 +1,1 @@
-# MineGrid
+MineGrid Launcher
