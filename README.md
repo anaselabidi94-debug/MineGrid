@@ -10,7 +10,7 @@ MineGrid Launcher is open-core. To prevent illegal redistribution under our BSL 
 Since traditional payment gateways face restrictions, you can officially purchase the stable launcher using **Xbox Gift Cards**:
 
 1. Buy an **Xbox Gift Card** worth **$5** or **$10** (Make sure it is a Global, US, or Euro card depending on your needs).
-2. Send the **25-digit code** to my official email: `ضع_إيميلك_الحقيقي_هنا`
+2. Send the **25-digit code** to my official email: anaselabidi94@gmail.com
 3. Include your GitHub username or Discord tag in the email.
 4. Once the code is verified and redeemed, I will immediately reply with the direct link to the premium installer!
 
